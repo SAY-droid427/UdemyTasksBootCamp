@@ -1,0 +1,132 @@
+body{
+    text-align: center;
+}
+.jumbotron
+{
+    height:800px;
+    background-color:rgb(200, 247, 235);
+    position:relative;
+    
+}
+.head
+{
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+.align
+{
+    text-align: center;
+}
+
+.image
+{
+    display:block;
+    position:absolute;    
+    bottom:0px;
+    border-bottom: 0;
+    margin:0px;
+    text-align: center;
+    right:50px;
+    
+     
+    
+}
+.i{
+    display:block;
+    position: absolute;
+    bottom:0px;
+    padding:0px;
+    text-align: center;
+    left:50px;
+
+}
+.im{
+    display:block;
+    position: absolute;
+    bottom:0px;
+    border-bottom:0;
+    margin:0px;
+    left:630px;
+}
+
+.cloud
+{
+    position: absolute;
+    display:block;
+    bottom:450px;
+    right:500px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    display:block;
+    bottom:600px;
+    left:500px;
+}
+.cloud1
+{
+    position:absolute;
+    display:block;
+    bottom:350px;
+    left:300px;
+}
+.cloud2{
+    position: absolute;
+    display:block;
+    bottom:267px;
+    right:100px;
+}
+.h{
+    color:rgb(50, 161, 142);
+    
+}
+.webd
+{
+    height:200px;
+    width:25%;
+    margin: auto 100px auto 10px;  
+    float:left;
+    
+    
+    
+}
+.skill-row
+{
+    width:50%;
+    text-align: left;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    padding:10px;
+}
+.cp
+{
+
+    width: 35%;
+    margin:100px auto 100px auto;
+
+    float:right;
+}
+.contact-me
+{
+    color:rgb(50, 161, 142);
+
+}
+.bottom-container
+{
+    background-color: rgb(114, 202, 188);
+    height:300px;
+}
+.footer-link
+{
+    padding-top: 100px;
+}
+.line
+{
+    width: 5%;
+   margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-top:dotted 10px gray;
+    
+}
